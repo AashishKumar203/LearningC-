@@ -1,2 +1,2 @@
 # LearningC-
-BasicsC++
+BasicsC++ for learning c++
